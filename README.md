@@ -2,24 +2,14 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) NLW COPA ROCKEATSEAT - 05/11/2022
 
 ## Realização
-[Aula Youtube Card Copa Nlw]([[https://devsuperior.com.br](https://github.com/GustavoSantosRodrigues/CARD-COPA-NLW)](https://www.youtube.com/watch?v=sswJisbD2CY&t=1020s))
+[Aula Youtube Card Copa Nlw]
 
-[![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)
-[![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
+[![ROCKEAT SEAT AULA]([https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior](https://www.youtube.com/watch?v=sswJisbD2CY&t=1020s))
 
-## Página de inscrição do evento
-- [Página de inscrição - Semana Spring React](https://devsuperior.com.br/sds-inscricao-org)
+##MY INSTAGRAM
+[![DEV GUSTAVO][(https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)](https://www.instagram.com/gustavoxxsr/)
 
-## Guias de instalação das ferramentas
-- [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/windows)
-- [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/linux)
-- [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/mac)
-
-## Discord do evento para dúvidas e networking
-- [Discord da Semana Spring React](https://discord.gg/sjm6AqWxz2)
-
-
-## Conteúdos de preparação
+## CONTEÚDO QUE FOI FEITO DURANTE A AULA!
 
 ### 1) Git e Github para iniciantes
 
