@@ -1,2 +1,2 @@
 # CARD-COPA-NLW
-## Começando a estrutura para a NLW COPA
+## Começando a estrutura para a COPA NLW
